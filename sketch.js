@@ -30,7 +30,7 @@ d3.shapeColor = "white";
 ground = createSprite(100,450,4000,20);
 ground.shapeColor = "yellow";
 
-ball = Bodies.circle(200,100,20;
+ball = Bodies.circle(200,100,20);
 World.add(world,ball)
 	engine = Engine.create();
 	world = engine.world;
